@@ -13,8 +13,12 @@ Pricing: $13.99
 - Custom View Delay
 
 
-## Paid Version?
-I am selling a paid version of this bot with Lifetime Support and free Ebay advice. I have a ton of experience f*cking with ebay and I'm able to help anyone grow their store :)
+## Appreciate the software and wanna buy me a coffee?
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VZFLC3GAW3KCW&source=url">
+  <img src="https://i.ibb.co/HB6LPDP/QR-code.png">
+</a>
+
+(Click to open link.)
 
 ## Windows Version?
 I have completely recoded this project in Windows for OS Wide Support. If you would like a download the project resides <a href="https://github.com/gothboiclique/Ebay-View-Bot-Windows">here</a> on my Github profile :)
